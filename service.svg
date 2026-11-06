@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="400" viewBox="0 0 640 400" role="img" aria-labelledby="title desc">
+<title id="title">스터디온 주간 학습 계획</title><desc id="desc">월요일 강의 듣기, 수요일 실습하기, 금요일 과제 확인하기</desc>
+<rect width="640" height="400" rx="24" fill="#eef4ff"/>
+<rect x="32" y="32" width="576" height="336" rx="16" fill="white"/>
+<g font-family="sans-serif"><text x="62" y="89" font-size="28" font-weight="bold" fill="#243859">스터디온 · 이번 주 학습</text>
+<rect x="60" y="122" width="520" height="60" rx="10" fill="#edf2ff"/>
+<rect x="60" y="194" width="520" height="60" rx="10" fill="#edf8f3"/>
+<rect x="60" y="266" width="520" height="60" rx="10" fill="#fff6e8"/>
+<g font-size="23" fill="#243859"><text x="82" y="161">월요일</text><text x="230" y="161">강의 듣기</text><text x="82" y="233">수요일</text><text x="230" y="233">실습하기</text><text x="82" y="305">금요일</text><text x="230" y="305">과제 확인하기</text></g></g></svg>
